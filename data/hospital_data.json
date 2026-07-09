@@ -1,0 +1,71 @@
+{
+  "hospital_group": {
+    "name_en": "Al Raya Medical Group",
+    "name_ar": "مجموعة الراية الطبية"
+  },
+  "branches": [
+    {
+      "id": "cairo",
+      "name_en": "Cairo",
+      "name_ar": "القاهرة",
+      "hospital_label_en": "Al Raya Medical Group - Cairo Branch",
+      "hospital_label_ar": "مجموعة الراية الطبية - فرع القاهرة",
+      "address_en": "12 Tahrir St, Downtown, Cairo",
+      "address_ar": "12 شارع التحرير، وسط البلد، القاهرة",
+      "specializations": ["Cardiology", "Neurology", "Orthopedics", "Dermatology", "Pediatrics"]
+    },
+    {
+      "id": "alexandria",
+      "name_en": "Alexandria",
+      "name_ar": "الإسكندرية",
+      "hospital_label_en": "Al Raya Medical Group - Alexandria Branch",
+      "hospital_label_ar": "مجموعة الراية الطبية - فرع الإسكندرية",
+      "address_en": "45 Corniche Rd, Alexandria",
+      "address_ar": "45 طريق الكورنيش، الإسكندرية",
+      "specializations": ["Cardiology", "Neurology", "Orthopedics", "Dermatology"]
+    },
+    {
+      "id": "riyadh",
+      "name_en": "Riyadh",
+      "name_ar": "الرياض",
+      "hospital_label_en": "Al Raya Medical Group - Riyadh Branch",
+      "hospital_label_ar": "مجموعة الراية الطبية - فرع الرياض",
+      "address_en": "King Fahd Rd, Riyadh",
+      "address_ar": "طريق الملك فهد، الرياض",
+      "specializations": ["Cardiology", "ENT", "Orthopedics", "Internal Medicine", "Endocrinology"]
+    },
+    {
+      "id": "dubai",
+      "name_en": "Dubai",
+      "name_ar": "دبي",
+      "hospital_label_en": "Al Raya Medical Group - Dubai Branch",
+      "hospital_label_ar": "مجموعة الراية الطبية - فرع دبي",
+      "address_en": "Sheikh Zayed Rd, Dubai",
+      "address_ar": "شارع الشيخ زايد، دبي",
+      "specializations": ["Dermatology", "Pediatrics", "Internal Medicine", "Psychiatry"]
+    }
+  ],
+  "doctors": [
+    { "id": "d001", "name_en": "Dr. Sarah Hassan", "name_ar": "د. سارة حسن", "specialty_en": "Neurology", "specialty_ar": "المخ والأعصاب", "branch_id": "cairo" },
+    { "id": "d002", "name_en": "Dr. Ahmed Fathy", "name_ar": "د. أحمد فتحي", "specialty_en": "Cardiology", "specialty_ar": "القلب", "branch_id": "cairo" },
+    { "id": "d003", "name_en": "Dr. Mona Adel", "name_ar": "د. منى عادل", "specialty_en": "Dermatology", "specialty_ar": "الجلدية", "branch_id": "cairo" },
+    { "id": "d004", "name_en": "Dr. Karim Youssef", "name_ar": "د. كريم يوسف", "specialty_en": "Orthopedics", "specialty_ar": "العظام", "branch_id": "cairo" },
+    { "id": "d005", "name_en": "Dr. Nour Ibrahim", "name_ar": "د. نور إبراهيم", "specialty_en": "Pediatrics", "specialty_ar": "الأطفال", "branch_id": "cairo" },
+
+    { "id": "d006", "name_en": "Dr. Hany Salama", "name_ar": "د. هاني سلامة", "specialty_en": "Cardiology", "specialty_ar": "القلب", "branch_id": "alexandria" },
+    { "id": "d007", "name_en": "Dr. Rania Mostafa", "name_ar": "د. رانيا مصطفى", "specialty_en": "Neurology", "specialty_ar": "المخ والأعصاب", "branch_id": "alexandria" },
+    { "id": "d008", "name_en": "Dr. Tamer Aziz", "name_ar": "د. تامر عزيز", "specialty_en": "Orthopedics", "specialty_ar": "العظام", "branch_id": "alexandria" },
+    { "id": "d009", "name_en": "Dr. Yasmin Adham", "name_ar": "د. ياسمين أدهم", "specialty_en": "Dermatology", "specialty_ar": "الجلدية", "branch_id": "alexandria" },
+
+    { "id": "d010", "name_en": "Dr. Khalid Al-Mansouri", "name_ar": "د. خالد المنصوري", "specialty_en": "Cardiology", "specialty_ar": "القلب", "branch_id": "riyadh" },
+    { "id": "d011", "name_en": "Dr. Layla Nasser", "name_ar": "د. ليلى ناصر", "specialty_en": "Cardiology", "specialty_ar": "القلب", "branch_id": "riyadh" },
+    { "id": "d012", "name_en": "Dr. Faisal Otaibi", "name_ar": "د. فيصل العتيبي", "specialty_en": "ENT", "specialty_ar": "أنف وأذن وحنجرة", "branch_id": "riyadh" },
+    { "id": "d013", "name_en": "Dr. Reem Qahtani", "name_ar": "د. ريم القحطاني", "specialty_en": "Endocrinology", "specialty_ar": "الغدد الصماء", "branch_id": "riyadh" },
+    { "id": "d014", "name_en": "Dr. Salem Harbi", "name_ar": "د. سالم الحربي", "specialty_en": "Internal Medicine", "specialty_ar": "الباطنة", "branch_id": "riyadh" },
+
+    { "id": "d015", "name_en": "Dr. Omar Al Marri", "name_ar": "د. عمر المري", "specialty_en": "Internal Medicine", "specialty_ar": "الباطنة", "branch_id": "dubai" },
+    { "id": "d016", "name_en": "Dr. Huda Balushi", "name_ar": "د. هدى البلوشي", "specialty_en": "Pediatrics", "specialty_ar": "الأطفال", "branch_id": "dubai" },
+    { "id": "d017", "name_en": "Dr. Sami Rashidi", "name_ar": "د. سامي الرشيدي", "specialty_en": "Dermatology", "specialty_ar": "الجلدية", "branch_id": "dubai" },
+    { "id": "d018", "name_en": "Dr. Aisha Nuaimi", "name_ar": "د. عائشة النعيمي", "specialty_en": "Psychiatry", "specialty_ar": "الطب النفسي", "branch_id": "dubai" }
+  ]
+}

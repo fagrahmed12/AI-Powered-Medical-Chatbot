@@ -1,0 +1,178 @@
+[
+  {
+    "id": "k001",
+    "keywords_en": "severe headache fever infection meningitis flu",
+    "keywords_ar": "صداع شديد حمى عدوى التهاب سحايا انفلونزا",
+    "condition_en": "Headache with fever lasting more than 24 hours",
+    "condition_ar": "صداع شديد مصحوب بحمى لأكثر من 24 ساعة",
+    "recommendation_en": "This combination can indicate an infection or inflammation that needs medical evaluation. Rest, hydrate well, and avoid bright light. If symptoms persist or worsen, see a specialist promptly.",
+    "recommendation_ar": "الصداع الشديد المصحوب بالحمى لمدة تزيد عن 24 ساعة قد يشير إلى التهاب أو عدوى تستوجب الفحص الطبي. يُنصح بالراحة التامة وشرب كميات كافية من الماء وتجنب التعرض للضوء الساطع. إذا استمرت الأعراض أو تفاقمت، فمن المهم مراجعة طبيب متخصص في أقرب وقت.",
+    "suggested_specialty_en": "Neurology",
+    "suggested_specialty_ar": "المخ والأعصاب"
+  },
+  {
+    "id": "k002",
+    "keywords_en": "chest pain shortness of breath tightness heart attack",
+    "keywords_ar": "ألم في الصدر ضيق تنفس ضغط نوبة قلبية",
+    "condition_en": "Chest pain with shortness of breath",
+    "condition_ar": "ألم في الصدر مصحوب بضيق في التنفس",
+    "recommendation_en": "Chest pain combined with breathing difficulty can be serious and may relate to the heart or lungs. This needs urgent evaluation. If pain is crushing, radiates to the arm/jaw, or breathing is severely difficult, seek emergency care immediately.",
+    "recommendation_ar": "ألم الصدر مع ضيق التنفس قد يكون خطيرًا وقد يرتبط بالقلب أو الرئتين، وهو يستدعي تقييمًا عاجلاً. إذا كان الألم شديدًا أو ينتشر إلى الذراع أو الفك أو كان التنفس صعبًا جدًا، يجب التوجه فورًا إلى الطوارئ.",
+    "suggested_specialty_en": "Cardiology",
+    "suggested_specialty_ar": "القلب"
+  },
+  {
+    "id": "k003",
+    "keywords_en": "persistent cough sore throat cold flu congestion",
+    "keywords_ar": "كحة سعال مستمر التهاب حلق برد زكام احتقان",
+    "condition_en": "Persistent cough with sore throat",
+    "condition_ar": "سعال مستمر مصحوب بالتهاب الحلق",
+    "recommendation_en": "This is commonly linked to a viral or bacterial respiratory infection. Warm fluids, throat lozenges, and rest usually help. If the cough lasts more than 10 days, produces colored mucus, or fever appears, medical evaluation is recommended.",
+    "recommendation_ar": "غالبًا ما يرتبط هذا بعدوى فيروسية أو بكتيرية في الجهاز التنفسي. تساعد السوائل الدافئة ومسكنات الحلق والراحة عادةً. إذا استمر السعال لأكثر من 10 أيام أو ظهر بلغم ملون أو حمى، يُنصح بمراجعة الطبيب.",
+    "suggested_specialty_en": "ENT",
+    "suggested_specialty_ar": "أنف وأذن وحنجرة"
+  },
+  {
+    "id": "k004",
+    "keywords_en": "stomach pain abdominal pain nausea vomiting indigestion",
+    "keywords_ar": "ألم في المعدة ألم بطن غثيان قيء عسر هضم",
+    "condition_en": "Abdominal pain with nausea",
+    "condition_ar": "ألم في البطن مصحوب بغثيان",
+    "recommendation_en": "This may relate to digestive issues such as gastritis or food intolerance. Eat light, bland food and avoid fatty or spicy meals. If pain is severe, localized to the lower right side, or accompanied by fever, seek prompt medical attention.",
+    "recommendation_ar": "قد يرتبط هذا بمشكلات هضمية مثل التهاب المعدة أو حساسية الطعام. يُنصح بتناول أطعمة خفيفة وتجنب الأطعمة الدسمة أو الحارة. إذا كان الألم شديدًا أو متمركزًا في الجهة اليمنى السفلى أو مصحوبًا بحمى، يجب مراجعة الطبيب فورًا.",
+    "suggested_specialty_en": "Internal Medicine",
+    "suggested_specialty_ar": "الباطنة"
+  },
+  {
+    "id": "k005",
+    "keywords_en": "back pain lower back muscle strain sciatica",
+    "keywords_ar": "ألم في الظهر أسفل الظهر شد عضلي عرق النسا",
+    "condition_en": "Lower back pain",
+    "condition_ar": "ألم في أسفل الظهر",
+    "recommendation_en": "Often caused by muscle strain or poor posture. Gentle stretching, rest, and avoiding heavy lifting can help. If pain radiates down the leg, causes numbness, or persists beyond two weeks, a specialist should assess it.",
+    "recommendation_ar": "غالبًا ما يكون سببه شد عضلي أو وضعية جسم غير صحيحة. يساعد التمدد الخفيف والراحة وتجنب حمل الأشياء الثقيلة. إذا امتد الألم إلى الساق أو سبب تنميلًا أو استمر لأكثر من أسبوعين، يجب تقييمه من متخصص.",
+    "suggested_specialty_en": "Orthopedics",
+    "suggested_specialty_ar": "العظام"
+  },
+  {
+    "id": "k006",
+    "keywords_en": "skin rash itching redness allergy hives",
+    "keywords_ar": "طفح جلدي حكة احمرار حساسية أرتيكاريا",
+    "condition_en": "Skin rash with itching",
+    "condition_ar": "طفح جلدي مصحوب بحكة",
+    "recommendation_en": "This could be an allergic reaction or skin irritation. Avoid scratching, use a mild moisturizer, and identify any recent new products or foods. If swelling of the face/throat or difficulty breathing occurs, seek emergency care immediately.",
+    "recommendation_ar": "قد يكون هذا رد فعل تحسسي أو تهيج جلدي. تجنب الحكة، واستخدم مرطبًا لطيفًا، وحاول تحديد أي منتج أو طعام جديد. إذا حدث تورم في الوجه أو الحلق أو صعوبة في التنفس، يجب التوجه فورًا للطوارئ.",
+    "suggested_specialty_en": "Dermatology",
+    "suggested_specialty_ar": "الجلدية"
+  },
+  {
+    "id": "k007",
+    "keywords_en": "joint pain swelling stiffness arthritis knee",
+    "keywords_ar": "ألم مفاصل تورم تصلب التهاب مفاصل ركبة",
+    "condition_en": "Joint pain with swelling",
+    "condition_ar": "ألم في المفاصل مصحوب بتورم",
+    "recommendation_en": "This could indicate inflammation such as arthritis or an injury. Rest the joint, apply cold compresses, and avoid strenuous activity. Persistent swelling or stiffness warrants an orthopedic evaluation.",
+    "recommendation_ar": "قد يشير هذا إلى التهاب مثل التهاب المفاصل أو إصابة. أرح المفصل واستخدم كمادات باردة وتجنب المجهود الشاق. التورم أو التصلب المستمر يستدعي تقييمًا من طبيب عظام.",
+    "suggested_specialty_en": "Orthopedics",
+    "suggested_specialty_ar": "العظام"
+  },
+  {
+    "id": "k008",
+    "keywords_en": "dizziness vertigo lightheaded balance",
+    "keywords_ar": "دوخة دوار عدم اتزان",
+    "condition_en": "Dizziness or vertigo",
+    "condition_ar": "دوخة أو دوار",
+    "recommendation_en": "This can stem from inner ear issues, dehydration, or blood pressure changes. Sit or lie down when it occurs, stay hydrated, and avoid sudden movements. Recurrent or severe episodes should be evaluated by a specialist.",
+    "recommendation_ar": "قد ينتج هذا عن مشكلات في الأذن الداخلية أو الجفاف أو تغيرات ضغط الدم. اجلس أو استلقِ عند حدوثه، حافظ على ترطيب الجسم، وتجنب الحركات المفاجئة. النوبات المتكررة أو الشديدة يجب تقييمها من طبيب مختص.",
+    "suggested_specialty_en": "Neurology",
+    "suggested_specialty_ar": "المخ والأعصاب"
+  },
+  {
+    "id": "k009",
+    "keywords_en": "high blood pressure hypertension headache blurred vision",
+    "keywords_ar": "ضغط دم مرتفع ارتفاع ضغط صداع تشوش رؤية",
+    "condition_en": "Symptoms suggestive of high blood pressure",
+    "condition_ar": "أعراض توحي بارتفاع ضغط الدم",
+    "recommendation_en": "Headaches with blurred vision or a pounding sensation can relate to elevated blood pressure. Reduce salt intake, avoid stress, and monitor blood pressure if possible. A physician should confirm and manage this.",
+    "recommendation_ar": "قد يرتبط الصداع مع تشوش الرؤية أو الشعور بالخفقان بارتفاع ضغط الدم. قلل من تناول الملح وتجنب التوتر وراقب ضغط الدم إن أمكن. يجب أن يتم التأكيد والمتابعة من قبل طبيب.",
+    "suggested_specialty_en": "Internal Medicine",
+    "suggested_specialty_ar": "الباطنة"
+  },
+  {
+    "id": "k010",
+    "keywords_en": "diabetes thirst frequent urination fatigue blood sugar",
+    "keywords_ar": "سكري عطش شديد تبول متكرر إرهاق سكر الدم",
+    "condition_en": "Symptoms suggestive of blood sugar imbalance",
+    "condition_ar": "أعراض توحي باختلال في سكر الدم",
+    "recommendation_en": "Excessive thirst, frequent urination, and fatigue can indicate blood sugar issues. Reduce sugary food intake and monitor symptoms. Blood tests and specialist follow-up are recommended to confirm.",
+    "recommendation_ar": "العطش الشديد والتبول المتكرر والإرهاق قد تشير إلى مشكلات في سكر الدم. قلل من تناول الأطعمة السكرية وراقب الأعراض. يُنصح بإجراء فحوصات دم ومتابعة مع مختص للتأكيد.",
+    "suggested_specialty_en": "Endocrinology",
+    "suggested_specialty_ar": "الغدد الصماء"
+  },
+  {
+    "id": "k011",
+    "keywords_en": "migraine light sensitivity nausea aura",
+    "keywords_ar": "شقيقة حساسية للضوء غثيان هالة بصرية",
+    "condition_en": "Migraine with light sensitivity",
+    "condition_ar": "شقيقة مصحوبة بحساسية للضوء",
+    "recommendation_en": "This pattern is typical of migraine. Rest in a dark quiet room, stay hydrated, and avoid known triggers like caffeine or stress. Frequent migraines benefit from a neurologist's evaluation.",
+    "recommendation_ar": "هذا النمط شائع في الشقيقة (الصداع النصفي). استرح في غرفة مظلمة وهادئة، حافظ على الترطيب، وتجنب المحفزات المعروفة مثل الكافيين أو التوتر. الشقيقة المتكررة تستفيد من تقييم طبيب مخ وأعصاب.",
+    "suggested_specialty_en": "Neurology",
+    "suggested_specialty_ar": "المخ والأعصاب"
+  },
+  {
+    "id": "k012",
+    "keywords_en": "insomnia trouble sleeping anxiety stress",
+    "keywords_ar": "أرق صعوبة نوم قلق توتر",
+    "condition_en": "Insomnia or difficulty sleeping",
+    "condition_ar": "أرق أو صعوبة في النوم",
+    "recommendation_en": "This is often linked to stress, anxiety, or irregular sleep habits. Maintain a consistent sleep schedule, limit screen time before bed, and reduce caffeine. Persistent insomnia benefits from professional support.",
+    "recommendation_ar": "غالبًا ما يرتبط هذا بالتوتر أو القلق أو عادات النوم غير المنتظمة. حافظ على مواعيد نوم ثابتة، وقلل من استخدام الشاشات قبل النوم، وقلل الكافيين. الأرق المستمر يستفيد من دعم متخصص.",
+    "suggested_specialty_en": "Psychiatry",
+    "suggested_specialty_ar": "الطب النفسي"
+  },
+  {
+    "id": "k013",
+    "keywords_en": "anxiety panic racing heart worry nervousness",
+    "keywords_ar": "قلق نوبة هلع خفقان قلب توتر عصبية",
+    "condition_en": "Anxiety or panic symptoms",
+    "condition_ar": "أعراض قلق أو نوبة هلع",
+    "recommendation_en": "Racing heart with excessive worry can indicate anxiety. Practice slow breathing, grounding techniques, and reduce stimulant intake like caffeine. If episodes are frequent or intense, professional support is recommended.",
+    "recommendation_ar": "خفقان القلب مع القلق الزائد قد يشير إلى نوبة قلق. مارس التنفس البطيء وتقنيات التهدئة وقلل من المنبهات كالكافيين. إذا كانت النوبات متكررة أو شديدة، يُنصح بطلب دعم متخصص.",
+    "suggested_specialty_en": "Psychiatry",
+    "suggested_specialty_ar": "الطب النفسي"
+  },
+  {
+    "id": "k014",
+    "keywords_en": "sprain twisted ankle swelling injury sports",
+    "keywords_ar": "التواء كاحل تورم إصابة رياضية",
+    "condition_en": "Sprain or twisted joint injury",
+    "condition_ar": "التواء أو إصابة في المفصل",
+    "recommendation_en": "Follow the RICE approach: Rest, Ice, Compression, Elevation. Avoid putting weight on the joint. If there is severe swelling, inability to move the joint, or intense pain, an orthopedic evaluation is needed.",
+    "recommendation_ar": "اتبع طريقة الراحة والثلج والضغط والرفع (RICE). تجنب الضغط بالوزن على المفصل. إذا كان هناك تورم شديد أو عدم القدرة على تحريك المفصل أو ألم شديد، يلزم تقييم من طبيب عظام.",
+    "suggested_specialty_en": "Orthopedics",
+    "suggested_specialty_ar": "العظام"
+  },
+  {
+    "id": "k015",
+    "keywords_en": "ear pain hearing loss infection children",
+    "keywords_ar": "ألم أذن ضعف سمع التهاب أذن أطفال",
+    "condition_en": "Ear pain, possible ear infection",
+    "condition_ar": "ألم في الأذن، احتمال التهاب أذن",
+    "recommendation_en": "This is commonly caused by a middle ear infection, especially in children. Avoid inserting objects into the ear. A specialist should examine the ear, especially if pain is severe or fever is present.",
+    "recommendation_ar": "غالبًا ما يكون سببه التهاب الأذن الوسطى، خاصة عند الأطفال. تجنب إدخال أي أدوات داخل الأذن. يجب أن يفحص الأذن طبيب مختص، خاصة إذا كان الألم شديدًا أو مصحوبًا بحمى.",
+    "suggested_specialty_en": "ENT",
+    "suggested_specialty_ar": "أنف وأذن وحنجرة"
+  },
+  {
+    "id": "k016",
+    "keywords_en": "child fever rash pediatric infant",
+    "keywords_ar": "حمى أطفال طفح جلدي رضيع طفل",
+    "condition_en": "Fever in a child, possibly with rash",
+    "condition_ar": "حمى عند طفل مع احتمال طفح جلدي",
+    "recommendation_en": "Fever in children can result from common viral infections. Keep the child hydrated and monitor temperature. If fever exceeds 39°C, lasts more than 2 days, or the child appears lethargic, seek pediatric care promptly.",
+    "recommendation_ar": "قد تنتج حمى الأطفال عن عدوى فيروسية شائعة. حافظ على ترطيب الطفل وراقب درجة الحرارة. إذا تجاوزت الحمى 39 درجة أو استمرت أكثر من يومين أو بدا الطفل خاملًا، يجب التوجه فورًا لطبيب أطفال.",
+    "suggested_specialty_en": "Pediatrics",
+    "suggested_specialty_ar": "الأطفال"
+  }
+]
